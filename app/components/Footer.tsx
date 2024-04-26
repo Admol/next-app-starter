@@ -117,8 +117,8 @@ const Footer = () => {
                                         className="hs-dropdown-toggle py-2 px-3 inline-flex items-center gap-x-2 text-sm rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-white dark:hover:bg-neutral-800">
                                     <svg className="size-3 rounded-full" xmlns="http://www.w3.org/2000/svg"
                                          id="flag-icon-css-us1" viewBox="0 0 512 512">
-                                        <g fill-rule="evenodd">
-                                            <g stroke-width="1pt">
+                                        <g fillRule="evenodd">
+                                            <g strokeWidth="1pt">
                                                 <path fill="#bd3d44"
                                                       d="M0 0h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0z"
                                                       transform="scale(3.9385)"/>
@@ -136,8 +136,8 @@ const Footer = () => {
                                     <svg
                                         className="hs-dropdown-open:rotate-180 flex-shrink-0 size-4 text-gray-500 dark:text-neutral-500"
                                         xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                        stroke-linejoin="round">
+                                        fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"
+                                        strokeLinejoin="round">
                                         <path d="m18 15-6-6-6 6"/>
                                     </svg>
                                 </button>
@@ -149,8 +149,8 @@ const Footer = () => {
                                        href="#">
                                         <svg className="size-3.5 rounded-full" xmlns="http://www.w3.org/2000/svg"
                                              id="flag-icon-css-us" viewBox="0 0 512 512">
-                                            <g fill-rule="evenodd">
-                                                <g stroke-width="1pt">
+                                            <g fillRule="evenodd">
+                                                <g strokeWidth="1pt">
                                                     <path fill="#bd3d44"
                                                           d="M0 0h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0zm0 20h247v10H0z"
                                                           transform="scale(3.9385)"/>
@@ -190,7 +190,7 @@ const Footer = () => {
                                        href="#">
                                         <svg className="size-3 rounded-full" xmlns="http://www.w3.org/2000/svg"
                                              id="flag-icon-css-it" viewBox="0 0 512 512">
-                                            <g fill-rule="evenodd" stroke-width="1pt">
+                                            <g fillRule="evenodd" strokeWidth="1pt">
                                                 <path fill="#fff" d="M0 0h512v512H0z"/>
                                                 <path fill="#009246" d="M0 0h170.7v512H0z"/>
                                                 <path fill="#ce2b37" d="M341.3 0H512v512H341.3z"/>
