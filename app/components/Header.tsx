@@ -1,4 +1,4 @@
-// components/Hero.js
+// components/Header.js
 
 const Header = () => {
 
@@ -62,7 +62,7 @@ const Header = () => {
                             <a className="font-medium text-gray-600 hover:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500"
                                href="#">How To Use</a>
                             <a className="font-medium text-gray-600 hover:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500"
-                               href="#">FAQ</a>
+                               href="#faq">FAQ</a>
                             <a className="font-medium text-gray-600 hover:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500"
                                href="#pricing">Pricing</a>
                         </div>

@@ -2,6 +2,7 @@ import Header from "@/app/components/Header";
 import Hero from "@/app/components/Hero";
 import Case from "@/app/components/Case";
 import Pricing from "@/app/components/Pricing";
+import FAQ from "@/app/components/FAQ";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
                 <Hero />
                 <Case />
                 <Pricing/>
+                <FAQ/>
         </main>
     </>
   );
