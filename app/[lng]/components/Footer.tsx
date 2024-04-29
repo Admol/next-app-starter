@@ -1,6 +1,6 @@
 // components/Footer.js
 
-import LanguageSelector from "@/app/components/LanguageSelector";
+import LanguageSelector from "@/app/[lng]/components/LanguageSelector";
 
 const Footer = () => {
 
