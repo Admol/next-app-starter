@@ -46,10 +46,10 @@ const Header = () => {
                     </div>
 
                     <div className="sm:order-3 whitespace-nowrap items-center gap-x-2 hidden sm:flex">
-                        <button type="button"
-                                className="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-white dark:hover:bg-neutral-800">
-                            LOG IN
-                        </button>
+                        <a className="py-2.5 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none"
+                           href="#">
+                            Start free trial
+                        </a>
                     </div>
                     <div id="navbar-alignment"
                          className="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow sm:block">

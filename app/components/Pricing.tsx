@@ -18,7 +18,7 @@ const Pricing = () => {
                     </p>
                 </div>
 
-                <div className="mt-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-6 lg:items-center">
+                <div className="mt-12 grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:items-center">
                     <div className="flex flex-col border border-gray-200 text-center rounded-xl p-8 dark:border-neutral-800">
                         <h4 className="font-medium text-lg text-gray-800 dark:text-neutral-200">
                             Free
@@ -90,7 +90,7 @@ const Pricing = () => {
                             className="mt-5 py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:border-blue-600 hover:text-blue-600 disabled:opacity-50 disabled:pointer-events-none dark:border-neutral-700 dark:text-neutral-400 dark:hover:text-blue-500 dark:hover:border-blue-600"
                             href="#"
                         >
-                            Sign up
+                            Start free trial
                         </a>
                     </div>
                     <div className="flex flex-col border-2 border-blue-600 text-center shadow-xl rounded-xl p-8 dark:border-blue-700">
@@ -324,7 +324,7 @@ const Pricing = () => {
                         </a>
                     </div>
                 </div>
-            </div>;
+            </div>
 
         </>
     );
