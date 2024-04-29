@@ -1,11 +1,13 @@
 {
-  "h1": "Un semplice esempio",
-  "title": "Casa",
-  "to-client-page": "Alla pagina client",
-  "to-second-page": "Alla seconda pagina",
-  "welcome": "Benvenuti a Next.js 13/14 <1>con le nuove funzionalità di app directory</1> e i18next",
-  "blog": {
-    "text": "Scopri il corrispondente <1>articolo</1> che descrivere questo esempio.",
-    "link": "https://locize.com/blog/next-app-dir-i18n/"
-  }
+  "site-keywords": "Parole chiave della pagina iniziale",
+  "site-description": "Descrizione della pagina iniziale",
+
+
+  "title": "Home dell'applicazione",
+  "btn-log-in": "Inizia la prova gratuita",
+
+
+  "page-how-to-use": "Come utilizzare",
+  "page-faq": "Domande frequenti",
+  "page-pricing": "Prezzi"
 }

@@ -5,11 +5,13 @@ import Pricing from "@/app/[lng]/components/Pricing";
 import FAQ from "@/app/[lng]/components/FAQ";
 import Footer from "@/app/[lng]/components/Footer";
 
-export default function Home() {
+// @ts-ignore
+export default function Home({ params: { lng } }) {
+
   return (
     <>
         <main className="flex flex-col">
-                <Header/>
+                <Header lng={lng}/>
                 <Hero />
                 <Case />
                 <Pricing/>
